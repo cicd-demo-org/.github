@@ -1,0 +1,5 @@
+{
+  "name": "Simulated Node delivery",
+  "description": "Build and simulate gated delivery to dev, test, and prod.",
+  "categories": ["JavaScript"]
+}

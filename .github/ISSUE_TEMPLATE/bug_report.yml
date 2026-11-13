@@ -1,0 +1,9 @@
+name: Bug report
+description: Report a reproducible problem.
+body:
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps and expected behavior
+    validations:
+      required: true
